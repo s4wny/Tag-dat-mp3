@@ -2,7 +2,9 @@ Tag-dat-mp3.php
 ================
 
 **What?**
-A command line tool for auto taging mp3 songs.
+A command line tool for auto taging ~~mp3~~ songs.
+
+*Update:* It should work on none mp3 files too. But I haven't tested that.
 
 
 
@@ -63,8 +65,3 @@ myMusic
 |   `-- ...
 `-- ...
 ```
-
-..and..
-
- - PHP
- - PHP extension ID3
